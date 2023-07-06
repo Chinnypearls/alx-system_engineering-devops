@@ -1,3 +1,3 @@
-file -c -m school.mc
+file -c -m school.me
 0 String SCHOOL School data 
 !: mime School
